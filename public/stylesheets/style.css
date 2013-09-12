@@ -7,5 +7,7 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #91278F;
 }
+a:hover
+{color:#000};
