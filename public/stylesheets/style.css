@@ -1,9 +1,9 @@
 body {
   padding: 50px;
   font-family: 'Titillium Web', sans-serif;
-  background-image: "../bg.png" ;
+  background-image: url=	"../bg.png" ;
   background-repeat: repeat-x;
-  background-color: '#EDEBEA';
+  background-color: #EDEBEA;
 }
 
 a {
