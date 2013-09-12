@@ -6,6 +6,8 @@ body {
   background-color: #EDEBEA;
 }
 
+.brand img{ max-height: 60px;}
+
 a {
   color: #91278F;
 }
